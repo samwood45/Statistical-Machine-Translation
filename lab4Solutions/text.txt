@@ -1,0 +1,4 @@
+<s> the cat sat on the mat with a cat </s>
+<s> the cat sat on the mat </s>
+<s> cat sat on a mat </s>
+<s> the cat </s>
